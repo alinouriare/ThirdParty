@@ -1,0 +1,4 @@
+C:\Users\AliNouri\Desktop\Core\RelationUI\RelationUI\bin\Debug\netcoreapp3.1\RelationUI.exe
+C:\Users\AliNouri\Desktop\Core\RelationUI\RelationUI\obj\Debug\netcoreapp3.1\RelationUI.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\RelationUI\RelationUI\obj\Debug\netcoreapp3.1\RelationUI.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\RelationUI\RelationUI\obj\Debug\netcoreapp3.1\RelationUI.AssemblyInfo.cs

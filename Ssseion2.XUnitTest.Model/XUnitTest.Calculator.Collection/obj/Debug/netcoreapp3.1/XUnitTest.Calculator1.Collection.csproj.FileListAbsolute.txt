@@ -1,0 +1,3 @@
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\XUnitTest.Calculator.Collection\obj\Debug\netcoreapp3.1\XUnitTest.Calculator1.Collection.csprojAssemblyReference.cache
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\XUnitTest.Calculator.Collection\obj\Debug\netcoreapp3.1\XUnitTest.Calculator1.Collection.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\XUnitTest.Calculator.Collection\obj\Debug\netcoreapp3.1\XUnitTest.Calculator1.Collection.AssemblyInfo.cs

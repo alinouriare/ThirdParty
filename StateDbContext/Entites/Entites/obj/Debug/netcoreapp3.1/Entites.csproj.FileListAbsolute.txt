@@ -1,0 +1,8 @@
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\bin\Debug\netcoreapp3.1\Entites.deps.json
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\bin\Debug\netcoreapp3.1\Entites.dll
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\obj\Debug\netcoreapp3.1\Entites.dll
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\obj\Debug\netcoreapp3.1\Entites.pdb
+C:\Users\AliNouri\Desktop\Core\StateDbContext\Entites\Entites\obj\Debug\netcoreapp3.1\Entites.csprojAssemblyReference.cache

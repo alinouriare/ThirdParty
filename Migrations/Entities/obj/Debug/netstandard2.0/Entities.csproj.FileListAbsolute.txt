@@ -1,0 +1,7 @@
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\AliNouri\Desktop\Core\Migrations\Entities\obj\Debug\netstandard2.0\Entities.pdb

@@ -1,0 +1,8 @@
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\bin\Debug\netstandard2.0\Session03.Mock.Sample.deps.json
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\bin\Debug\netstandard2.0\Session03.Mock.Sample.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\bin\Debug\netstandard2.0\Session03.Mock.Sample.pdb
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\obj\Debug\netstandard2.0\Session03.Mock.Sample.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\obj\Debug\netstandard2.0\Session03.Mock.Sample.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\obj\Debug\netstandard2.0\Session03.Mock.Sample.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\obj\Debug\netstandard2.0\Session03.Mock.Sample.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Mock.Sample\Session03.Mock.Sample\obj\Debug\netstandard2.0\Session03.Mock.Sample.pdb

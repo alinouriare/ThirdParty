@@ -1,0 +1,11 @@
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\Services\obj\Debug\netstandard2.0\Services.pdb

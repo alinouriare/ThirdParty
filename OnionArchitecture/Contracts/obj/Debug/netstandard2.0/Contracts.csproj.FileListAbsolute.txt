@@ -1,0 +1,8 @@
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\obj\Debug\netstandard2.0\Contracts.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache

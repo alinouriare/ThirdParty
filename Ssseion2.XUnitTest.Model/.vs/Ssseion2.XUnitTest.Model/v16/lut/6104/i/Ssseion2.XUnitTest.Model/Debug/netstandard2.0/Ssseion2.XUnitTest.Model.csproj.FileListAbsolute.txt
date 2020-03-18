@@ -1,0 +1,7 @@
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\b\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.deps.json
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\b\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.dll
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\i\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.csprojAssemblyReference.cache
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\i\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\i\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.AssemblyInfo.cs
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\i\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.csproj.CopyComplete
+C:\Users\AliNouri\Source\Repos\Ssseion2.XUnitTest.Model\.vs\Ssseion2.XUnitTest.Model\v16\lut\0\i\Ssseion2.XUnitTest.Model\Debug\netstandard2.0\Ssseion2.XUnitTest.Model.dll

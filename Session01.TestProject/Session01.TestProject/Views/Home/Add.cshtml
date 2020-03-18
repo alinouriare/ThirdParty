@@ -1,0 +1,25 @@
+﻿@model Person
+@{
+    ViewData["Title"] = "Add";
+}
+
+    <form asp-controller="Home" asp-action="Add" method="post">
+
+        <div>
+
+
+            @Html.TextBoxFor(c => c.FirstName)
+        </div>
+
+
+        <div>
+
+            <input type="text" asp-for="LastName"/>
+         </div>
+
+        <div>
+
+            <input  type="submit" value="Save" />
+        </div>
+
+    </form>

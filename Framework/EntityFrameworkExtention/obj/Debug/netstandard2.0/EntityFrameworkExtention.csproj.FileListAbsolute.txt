@@ -1,0 +1,5 @@
+C:\Users\AliNouri\Desktop\Core\Framework\EntityFrameworkExtention\bin\Debug\netstandard2.0\EntityFrameworkExtention.deps.json
+C:\Users\AliNouri\Desktop\Core\Framework\EntityFrameworkExtention\bin\Debug\netstandard2.0\EntityFrameworkExtention.dll
+C:\Users\AliNouri\Desktop\Core\Framework\EntityFrameworkExtention\obj\Debug\netstandard2.0\EntityFrameworkExtention.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\Framework\EntityFrameworkExtention\obj\Debug\netstandard2.0\EntityFrameworkExtention.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\Framework\EntityFrameworkExtention\obj\Debug\netstandard2.0\EntityFrameworkExtention.AssemblyInfo.cs

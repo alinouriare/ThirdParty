@@ -1,0 +1,11 @@
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\bin\Debug\netstandard2.0\Session03.Store.DAL.deps.json
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\bin\Debug\netstandard2.0\Session03.Store.DAL.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\bin\Debug\netstandard2.0\Session03.Store.DAL.pdb
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\bin\Debug\netstandard2.0\Session03.Store.Domin.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\bin\Debug\netstandard2.0\Session03.Store.Domin.pdb
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.DAL\obj\Debug\netstandard2.0\Session03.Store.DAL.pdb

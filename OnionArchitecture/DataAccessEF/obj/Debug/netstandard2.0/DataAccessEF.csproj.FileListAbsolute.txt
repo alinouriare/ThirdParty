@@ -1,0 +1,17 @@
+C:\Users\pada\source\repos\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\pada\source\repos\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\pada\source\repos\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.AssemblyInfoInputs.cache
+C:\Users\pada\source\repos\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\DataAccessEF.deps.json
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\DataAccessEF.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\DataAccessEF.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.dll
+C:\Users\AliNouri\Desktop\OnionArchitecture\DataAccessEF\obj\Debug\netstandard2.0\DataAccessEF.pdb

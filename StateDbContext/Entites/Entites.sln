@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entites", "Entites\Entites.csproj", "{8F7089FD-8F5A-4856-8AFD-0A60C5497C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFData", "EFData\EFData.csproj", "{664D8D12-1A42-4730-A57F-A21D04CB54E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateMangment", "StateMangment\StateMangment.csproj", "{33A78AAC-5A80-49C1-AF87-E1227CB35A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7089FD-8F5A-4856-8AFD-0A60C5497C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7089FD-8F5A-4856-8AFD-0A60C5497C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7089FD-8F5A-4856-8AFD-0A60C5497C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7089FD-8F5A-4856-8AFD-0A60C5497C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664D8D12-1A42-4730-A57F-A21D04CB54E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664D8D12-1A42-4730-A57F-A21D04CB54E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664D8D12-1A42-4730-A57F-A21D04CB54E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664D8D12-1A42-4730-A57F-A21D04CB54E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A78AAC-5A80-49C1-AF87-E1227CB35A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A78AAC-5A80-49C1-AF87-E1227CB35A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A78AAC-5A80-49C1-AF87-E1227CB35A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A78AAC-5A80-49C1-AF87-E1227CB35A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE0385C-3402-40FD-A703-0AB7F28768E9}
+	EndGlobalSection
+EndGlobal

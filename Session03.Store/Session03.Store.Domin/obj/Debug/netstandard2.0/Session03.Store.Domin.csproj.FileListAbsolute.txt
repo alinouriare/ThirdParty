@@ -1,0 +1,8 @@
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\bin\Debug\netstandard2.0\Session03.Store.Domin.deps.json
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\bin\Debug\netstandard2.0\Session03.Store.Domin.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\bin\Debug\netstandard2.0\Session03.Store.Domin.pdb
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\obj\Debug\netstandard2.0\Session03.Store.Domin.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\obj\Debug\netstandard2.0\Session03.Store.Domin.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\obj\Debug\netstandard2.0\Session03.Store.Domin.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\obj\Debug\netstandard2.0\Session03.Store.Domin.dll
+C:\Users\AliNouri\Desktop\Core\Session03.Store\Session03.Store.Domin\obj\Debug\netstandard2.0\Session03.Store.Domin.pdb

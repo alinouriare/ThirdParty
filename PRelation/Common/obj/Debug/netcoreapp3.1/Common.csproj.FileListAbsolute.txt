@@ -1,0 +1,10 @@
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\AliNouri\Desktop\Core\PRelation\Common\obj\Debug\netcoreapp3.1\Common.pdb
