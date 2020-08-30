@@ -1,0 +1,28 @@
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+    modelBuilder
+        .Entity<Rider>()
+        .Property(e => e.Mount)
+        .HasConversion(
+            v => v.ToString(),
+            v => (EquineBeast)Enum.Parse(typeof(EquineBeast), v));
+}
+
+
+public class PersonsConfiguration : IEntityTypeConfiguration<Person>
+{
+    public void Configure(EntityTypeBuilder<Person> builder)
+    {
+        // This Converter will perform the conversion to and from Json to the desired type
+        builder.Property(e => e.Addresses).HasConversion(
+            v => JsonConvert.SerializeObject(v, new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore }),
+            v => JsonConvert.DeserializeObject<IList<Address>>(v, new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore }));
+    }
+}
+
+
+https://entityframeworkcore.com/knowledge-base/44829824/how-to-store-json-in-an-entity-field-with-ef-core-
+
+https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions
+            
+            
